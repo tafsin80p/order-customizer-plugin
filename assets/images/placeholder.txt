@@ -1,0 +1,43 @@
+# Image Assets Directory
+
+This directory should contain all the product images referenced in the plugin:
+
+## Required Images:
+
+### Enclosure Materials:
+- aluminum-enclosure.png
+- plastic-enclosure.png  
+- steel-enclosure.png
+
+### Shapes:
+- rectangle-shape.png
+- square-shape.png
+- circular-shape.png
+
+### CNC Templates:
+- cnc-standard.png
+- cnc-rectangle.png
+- cnc-circular.png
+
+### Powder Coating Colors:
+- powder-caveman_black.png
+- powder-pearl_white.png
+- powder-black_jack.png
+- powder-zodiac_white.png
+- powder-silk_satin_black.png
+- powder-soft_satin_white.png
+- powder-spring_yellow.png
+- powder-cosmic_yellow.png
+- powder-spanish_gold.png
+- powder-pumpkin_gold.png
+- powder-anodized_red.png
+- powder-neon_pink.png
+- powder-tractor_green.png
+- powder-rifle_green.png
+- powder-altered_teal.png
+- powder-gojira.png
+- powder-rainbows_end.png
+- powder-chameleon.png
+- powder-green_ice.png
+
+Copy your existing images from the React project's public folder to this directory.
