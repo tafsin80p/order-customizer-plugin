@@ -2,6 +2,22 @@
 
 A comprehensive WordPress plugin for pedal enclosure customization with full WooCommerce integration, interactive options, and order management.
 
+Plugin Preview: https://www.stompitparts.com/custom-order <br/>
+Plugin Overview: 
+
+<img width="1268" height="780" alt="image" src="https://github.com/user-attachments/assets/4818151a-f110-412c-81eb-f31376983952" />
+<img width="842" height="326" alt="image" src="https://github.com/user-attachments/assets/25c18b31-19f9-4d7c-abed-c2014aee9096" />
+<img width="841" height="685" alt="image" src="https://github.com/user-attachments/assets/a90daba4-475d-4b35-8718-b36c6f45a4d5" />
+<img width="840" height="708" alt="image" src="https://github.com/user-attachments/assets/96ef85bf-74a3-4afe-b0eb-bfcfd98cb3df" />
+<img width="841" height="348" alt="image" src="https://github.com/user-attachments/assets/10288c75-2aa7-4d81-938f-d62de258ddd6" />
+
+Backend WordPress Preview:
+
+<img width="1899" height="840" alt="image" src="https://github.com/user-attachments/assets/e6c626ea-960d-41e7-9ca8-b6b1459b440d" />
+<img width="835" height="887" alt="image" src="https://github.com/user-attachments/assets/59bdbe8c-789f-4a26-ad64-cb1a963c3fea" />
+<img width="715" height="896" alt="image" src="https://github.com/user-attachments/assets/27c938ea-0dc2-4bf0-b81c-0b98f6f754fd" />
+
+
 ## Features
 
 - **Interactive Customization Interface**: Users can select materials, shapes, sizes, CNC milling options, and powder coating colors
